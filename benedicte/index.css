@@ -78,15 +78,6 @@
 	}
 }
 
-.home-picture
-{
-    width: 40%;
-    float: right;
-    margin-top: 20px;
-}
-.home-picture img{
-    width: 100%;
-}
 
 .description{
     margin-left: 60px;
@@ -97,4 +88,66 @@
   padding: 35px;
 }
 
+.pieds
+{
+  margin-bottom: 0px;
+  background-color: #dff0fd;
+  height: auto;
+}
+.container
+{
+  height: auto;
+  margin-top: 5%;
+  padding: 10px;
+ 
+}
+.menu
+{
+  padding: 20px;
+}
+.menu .svg
+{
+  width: 100%;
+}
+ .carte
+{
+  margin-left: 0px;
+  box-shadow: 0 6px 6px -6px black;
+  height: auto;
+  background-color: #dff0fd;
+  width: 20%;
+  opacity: 0.8;
+}
 
+
+.card-title
+{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.card-text
+{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.random-word{
+  margin-left: 0px;
+}
+
+.rowcarte
+{
+  margin: 10px; 
+}
+
+.pieds a{
+  color: black;
+  text-decoration: none;
+  padding: 12px;
+}
+
+.pieds a:link, a:visited
+{
+  text-decoration: none;
+}
